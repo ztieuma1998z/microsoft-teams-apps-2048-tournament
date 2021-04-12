@@ -1,4 +1,4 @@
-# 2048 Template
+# 2048 Tournament App Template
 
 | [Documentation](https://github.com/OfficeDev/microsoft-teams-apps-2048-tournament/wiki/Home) | [Deployment guide](https://github.com/OfficeDev/microsoft-teams-apps-2048-tournament/wiki/Continuous-deployment) | [Architecture](https://github.com/OfficeDev/microsoft-teams-apps-2048-tournament/wiki/Solution-overview) | [Costing](https://github.com/OfficeDev/microsoft-teams-apps-2048-tournament/wiki/Costing) |
 | ----- | ---- | ---- | ---- |
