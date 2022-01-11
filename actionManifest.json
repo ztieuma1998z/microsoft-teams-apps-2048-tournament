@@ -1,15 +1,15 @@
 {
     "schemaVersion": 1,
     "tag": "2048-teams-app",
-    "id": "<packageId>",
+    "id": "TeamFeed.HUST.QLDA.2048",
     "name": "2048 Tournament",
     "description": "Host a tournament of 2048 game",
     "showLoadingIndicator": true,
     "developer": {
-        "name": "<name>",
-        "websiteUrl": "<websiteUrl>",
-        "privacyUrl": "<privacyUrl>",
-        "termsOfUseUrl": "<termsOfUseUrl>"
+        "name": "Tuan",
+        "websiteUrl": "https://github.com/TuanVH99",
+        "privacyUrl": "https://github.com/TuanVH99",
+        "termsOfUseUrl": "https://github.com/TuanVH99"
     },
     "icon": "images/appIcon.png",
     "actionModel": "actionModel.json",
